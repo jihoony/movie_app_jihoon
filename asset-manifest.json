@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/jihoony/movie_app_jihoon/static/css/main.cc73c6ea.chunk.css",
-    "main.js": "/jihoony/movie_app_jihoon/static/js/main.5d45ac95.chunk.js",
-    "main.js.map": "/jihoony/movie_app_jihoon/static/js/main.5d45ac95.chunk.js.map",
-    "runtime-main.js": "/jihoony/movie_app_jihoon/static/js/runtime-main.7b744c79.js",
-    "runtime-main.js.map": "/jihoony/movie_app_jihoon/static/js/runtime-main.7b744c79.js.map",
-    "static/js/2.5c502a4b.chunk.js": "/jihoony/movie_app_jihoon/static/js/2.5c502a4b.chunk.js",
-    "static/js/2.5c502a4b.chunk.js.map": "/jihoony/movie_app_jihoon/static/js/2.5c502a4b.chunk.js.map",
-    "index.html": "/jihoony/movie_app_jihoon/index.html",
-    "precache-manifest.f6a3dc0bfbb0b2d3f9e8fc171100ccc2.js": "/jihoony/movie_app_jihoon/precache-manifest.f6a3dc0bfbb0b2d3f9e8fc171100ccc2.js",
-    "service-worker.js": "/jihoony/movie_app_jihoon/service-worker.js",
-    "static/css/main.cc73c6ea.chunk.css.map": "/jihoony/movie_app_jihoon/static/css/main.cc73c6ea.chunk.css.map",
-    "static/js/2.5c502a4b.chunk.js.LICENSE.txt": "/jihoony/movie_app_jihoon/static/js/2.5c502a4b.chunk.js.LICENSE.txt"
+    "main.css": "/movie_app_jihoon/static/css/main.cc73c6ea.chunk.css",
+    "main.js": "/movie_app_jihoon/static/js/main.5d45ac95.chunk.js",
+    "main.js.map": "/movie_app_jihoon/static/js/main.5d45ac95.chunk.js.map",
+    "runtime-main.js": "/movie_app_jihoon/static/js/runtime-main.57fc7ba5.js",
+    "runtime-main.js.map": "/movie_app_jihoon/static/js/runtime-main.57fc7ba5.js.map",
+    "static/js/2.5c502a4b.chunk.js": "/movie_app_jihoon/static/js/2.5c502a4b.chunk.js",
+    "static/js/2.5c502a4b.chunk.js.map": "/movie_app_jihoon/static/js/2.5c502a4b.chunk.js.map",
+    "index.html": "/movie_app_jihoon/index.html",
+    "precache-manifest.c2207cf09856be8214972fe4c8ace48b.js": "/movie_app_jihoon/precache-manifest.c2207cf09856be8214972fe4c8ace48b.js",
+    "service-worker.js": "/movie_app_jihoon/service-worker.js",
+    "static/css/main.cc73c6ea.chunk.css.map": "/movie_app_jihoon/static/css/main.cc73c6ea.chunk.css.map",
+    "static/js/2.5c502a4b.chunk.js.LICENSE.txt": "/movie_app_jihoon/static/js/2.5c502a4b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7b744c79.js",
+    "static/js/runtime-main.57fc7ba5.js",
     "static/js/2.5c502a4b.chunk.js",
     "static/css/main.cc73c6ea.chunk.css",
     "static/js/main.5d45ac95.chunk.js"
